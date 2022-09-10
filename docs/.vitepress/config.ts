@@ -38,7 +38,7 @@ export default defineConfig({
 
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2019-present Evan You'
+      copyright: 'Copyright © 2019-present Casiano Rodríguez-León'
     },
 
     algolia: {

@@ -17,9 +17,47 @@ const { site, page } = useData()
 
 import { PLinfo } from '../plinfo'
 
+import { VPTeamMembers } from 'vitepress/theme'
+
+const members = [
+  {
+    avatar: 'https://www.github.com/yyx990803.png',
+    name: 'Evan You',
+    title: 'Creator',
+    links: [
+      { icon: 'github', link: 'https://github.com/yyx990803' },
+      { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
+    ]
+  },
+   {
+    avatar: 'https://avatars.githubusercontent.com/u/1142554?v=4',
+    name: 'Casiano',
+    title: 'Teacher',
+    links: [
+      { icon: 'github', link: 'https://github.com/crguezl' },
+      { icon: 'twitter', link: 'https://twitter.com/crguezl' }
+    ]
+  },
+ 
+]
+
 </script>
 
 the api of useData is in <https://vitepress.vuejs.org/guide/api.html>
+
+
+
+# Our Team
+
+See <https://vitepress.vuejs.org/guide/theme-team-page#show-team-members-in-a-page>
+
+Say hello to our awesome team.
+
+<VPTeamMembers size="small" :members="members" />
+
+## Frontmatter mivar
+
+mivar: {{ $frontmatter.mivar }}
 
 
 ## PLinfo

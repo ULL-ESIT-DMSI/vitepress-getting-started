@@ -12,6 +12,10 @@ export function nav() {
           text: 'Tema 1: Introducción',
           link: '/temas/tema1-introduccion/'
         },
+        {
+          text: 'Todos los temas',
+          link: '/temas/'
+        }
       ],
     },
     { 
