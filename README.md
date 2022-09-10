@@ -30,4 +30,4 @@ http://localhost:5173/temas/tema0-presentacion.html
 
 ## Learning
 
-See also dthe <debug/index.md> file
+See also dthe <docs/debug/index.md> file
