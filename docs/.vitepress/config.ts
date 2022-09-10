@@ -6,6 +6,7 @@ export default defineConfig({
   lang: 'en-US',
   title: 'DMSI',
   description: 'DMSI site.',
+  base: '/vitepress-getting-started/',
 
   lastUpdated: true,
   cleanUrls: 'without-subfolders',

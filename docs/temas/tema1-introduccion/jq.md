@@ -1,3 +1,0 @@
-# JQ
-
-{% include jq.md %}
