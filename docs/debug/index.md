@@ -21,17 +21,6 @@ import { PLinfo } from '../plinfo'
 
 the api of useData is in <https://vitepress.vuejs.org/guide/api.html>
 
-## Page 
-
-<pre>
-{{ page }}
-</pre>
-
-## Site 
-
-<pre>
-{{ site }}
-</pre>
 
 ## PLinfo
 
@@ -52,3 +41,15 @@ This is a .md using a custom component
 
 <CustomComponent />
 ```
+
+## Page 
+
+<pre>
+{{ page }}
+</pre>
+
+## Site 
+
+<pre>
+{{ site }}
+</pre>
