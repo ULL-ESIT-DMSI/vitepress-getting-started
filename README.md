@@ -27,3 +27,7 @@ http://localhost:5173/temas/tema0-presentacion
 which is interpreted as
 
 http://localhost:5173/temas/tema0-presentacion.html
+
+## Learning
+
+See also dthe <debug/index.md> file
