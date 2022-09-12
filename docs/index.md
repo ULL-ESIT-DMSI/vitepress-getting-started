@@ -5,7 +5,7 @@ hero:
   text: DESARROLLO Y MANTENIMIENTO DE SISTEMAS DE INFORMACIÓN
   tagline: Curso 22/23
   image:
-    src: /assets/images/logo-ull.jpg
+    src: /assets/images/logo-ull.png
     alt: DMSI
   actions:
     - theme: brand
