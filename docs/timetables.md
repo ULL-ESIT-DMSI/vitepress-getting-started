@@ -74,3 +74,9 @@ https://www.ull.es/estudios-docencia/wp-content/uploads/sites/7/2022/06/28088294
 * [![](/assets/images/examenes-dmsi.png)](https://www.ull.es/grados/ingenieria-informatica/informacion-academica/horarios-y-calendario-examenes/) 
 
 
+## Logos
+
+![](/assets/images/logo-ull.png)
+
+
+![](/assets/images/logo-ull.jpg)
