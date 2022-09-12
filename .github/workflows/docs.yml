@@ -10,7 +10,7 @@ jobs:
     - name: vuepress-deploy
       uses: jenkey2011/vuepress-deploy@master
       env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }} # token created for secret
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }} # updated token created for secret
         TARGET_REPO: ULL-ESIT-DMSI/vitepress-getting-started
         TARGET_BRANCH: gh-pages
         BUILD_SCRIPT: npm install && npm run docs:build
