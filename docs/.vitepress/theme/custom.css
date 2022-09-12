@@ -1,10 +1,12 @@
 /* .vitepress/theme/custom.css */
+/*
 :root {
-  //--vp-c-brand: #9712d9;
-  //--vp-c-brand-light: #ba46f4;
+  --vp-c-brand: #9712d9;
+  --vp-c-brand-light: #ba46f4;
 }
 
 .dark {
-  //--vp-button-brand-bg: #9712d9;
-  //--vp-button-brand-hover-bg: #ba46f4;
+  --vp-button-brand-bg: #9712d9;
+  --vp-button-brand-hover-bg: #ba46f4;
 }
+*/
