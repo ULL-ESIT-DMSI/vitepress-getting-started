@@ -1,6 +1,11 @@
 export function nav() {
   return [
-    { text: 'Debug Vuepress', link: '/debug/' },
+    { text: 'Debug Vitepress', 
+      items: [
+        { text: "1", link: '/debug/' },
+        { text: "2", link: '/debug/more' },
+      ],
+    },
     { 
       text: 'Temas', 
       items: [
@@ -54,19 +59,19 @@ export function nav() {
       items: [
         {
           text: "Google Calendar",
-          link: "https://github.com/ULL-ESIT-DMSI-2223"
+          link: "/timetables#horario"
         },
         {
           text: "Calendario de Exámenes",
-          link: "https://github.com/ULL-ESIT-DMSI-2223"
+          link: "/timetables#examenes"
         },
         {
           text: "Horario de tutorías",
-          link: "https://github.com/ULL-ESIT-DMSI-2223"
+          link: "https://www.ull.es/apps/guias/guias/view_teacher_niu/967/crguezl/"
         },
         {
           text: "Calendario Académico",
-          link: "https://github.com/ULL-ESIT-DMSI-2223"
+          link: "/timetables#calendario-academico"
         }
       ]
   },

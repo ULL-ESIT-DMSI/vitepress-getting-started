@@ -3,6 +3,8 @@ mivar: 4
 ---
 # Temas
 
+[mode debs](more)
+
 * [Presentación](/temas/tema0-presentacion/)
 * [Introducción](/temas/tema1-introduccion/)
 
