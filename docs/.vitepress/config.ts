@@ -11,6 +11,7 @@ export default defineConfig({
   description: 'DMSI site.',
   base: '/vitepress-getting-started/',
 
+  srcExclude: [ ], 
   lastUpdated: true,
   cleanUrls: 'without-subfolders',
 
