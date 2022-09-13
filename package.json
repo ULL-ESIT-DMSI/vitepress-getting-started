@@ -9,7 +9,8 @@
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs"
+    "docs:serve": "vitepress serve docs",
+    "docs:bs": "vitepress build docs && vitepress serve docs"
   },
   "devDependencies": {
     "@types/node": "^18.7.16",
